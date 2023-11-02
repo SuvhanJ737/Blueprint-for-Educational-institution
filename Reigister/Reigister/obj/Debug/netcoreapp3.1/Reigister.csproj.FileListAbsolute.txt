@@ -1,0 +1,14 @@
+C:\Users\suvah\OneDrive\BSC IT Final Year(2nd Semester)\Programming 742\Assignment\Reigister\Reigister\bin\Debug\netcoreapp3.1\Reigister.exe
+C:\Users\suvah\OneDrive\BSC IT Final Year(2nd Semester)\Programming 742\Assignment\Reigister\Reigister\bin\Debug\netcoreapp3.1\Reigister.deps.json
+C:\Users\suvah\OneDrive\BSC IT Final Year(2nd Semester)\Programming 742\Assignment\Reigister\Reigister\bin\Debug\netcoreapp3.1\Reigister.runtimeconfig.json
+C:\Users\suvah\OneDrive\BSC IT Final Year(2nd Semester)\Programming 742\Assignment\Reigister\Reigister\bin\Debug\netcoreapp3.1\Reigister.runtimeconfig.dev.json
+C:\Users\suvah\OneDrive\BSC IT Final Year(2nd Semester)\Programming 742\Assignment\Reigister\Reigister\bin\Debug\netcoreapp3.1\Reigister.dll
+C:\Users\suvah\OneDrive\BSC IT Final Year(2nd Semester)\Programming 742\Assignment\Reigister\Reigister\bin\Debug\netcoreapp3.1\Reigister.pdb
+C:\Users\suvah\OneDrive\BSC IT Final Year(2nd Semester)\Programming 742\Assignment\Reigister\Reigister\obj\Debug\netcoreapp3.1\Reigister.csproj.AssemblyReference.cache
+C:\Users\suvah\OneDrive\BSC IT Final Year(2nd Semester)\Programming 742\Assignment\Reigister\Reigister\obj\Debug\netcoreapp3.1\Reigister.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suvah\OneDrive\BSC IT Final Year(2nd Semester)\Programming 742\Assignment\Reigister\Reigister\obj\Debug\netcoreapp3.1\Reigister.AssemblyInfoInputs.cache
+C:\Users\suvah\OneDrive\BSC IT Final Year(2nd Semester)\Programming 742\Assignment\Reigister\Reigister\obj\Debug\netcoreapp3.1\Reigister.AssemblyInfo.cs
+C:\Users\suvah\OneDrive\BSC IT Final Year(2nd Semester)\Programming 742\Assignment\Reigister\Reigister\obj\Debug\netcoreapp3.1\Reigister.csproj.CoreCompileInputs.cache
+C:\Users\suvah\OneDrive\BSC IT Final Year(2nd Semester)\Programming 742\Assignment\Reigister\Reigister\obj\Debug\netcoreapp3.1\Reigister.dll
+C:\Users\suvah\OneDrive\BSC IT Final Year(2nd Semester)\Programming 742\Assignment\Reigister\Reigister\obj\Debug\netcoreapp3.1\Reigister.pdb
+C:\Users\suvah\OneDrive\BSC IT Final Year(2nd Semester)\Programming 742\Assignment\Reigister\Reigister\obj\Debug\netcoreapp3.1\Reigister.genruntimeconfig.cache
